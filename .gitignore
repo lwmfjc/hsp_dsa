@@ -1,3 +1,7 @@
+.idea/
+target/
+hsp_dsa.iml
+*.data
 # Default ignored files
 /shelf/
 /workspace.xml
